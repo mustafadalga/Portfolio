@@ -18,6 +18,7 @@ bir portfolyo şablonu.**
  * HTML 5
  * CSS 3
  * Bootstrap 4
+ * JavaScript
  * Jquery
  * Ekko Lightbox
  
